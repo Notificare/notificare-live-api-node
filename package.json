@@ -1,0 +1,19 @@
+{
+  "name": "notificare",
+  "description": "Notificare Live API client library",
+  "version": "0.0.3",
+  "author": "Joris Verbogt",
+  "dependencies": {},
+  "homepage": "https://github.com/Notificare/notificare-live-api-node",
+  "keywords": [
+    "notificare",
+    "api",
+    "server"
+  ],
+  "license": "MIT",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Notificare/notificare-live-api-node.git"
+  }
+}
