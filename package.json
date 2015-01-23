@@ -11,6 +11,9 @@
     "Joris Verbogt <joris@notifica.re>",
     "Joel Oliveira <joel@notifica.re>"
   ],
+  "devDependencies": {
+    "chai": "~1.0.10"
+  },
   "dependencies": {},
   "homepage": "https://github.com/Notificare/notificare-live-api-node",
   "keywords": [
@@ -25,6 +28,9 @@
     }
   ],
   "main": "index",
+  "scripts":{
+    "test": "mocha"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Notificare/notificare-live-api-node.git"

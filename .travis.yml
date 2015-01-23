@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "0.8"
+  - "0.10"
+
+before_install:
+  - "if [[ `node -v` == v0.8.* ]]; then npm install -g npm || exit 0; fi"
+
+script:
+  - "npm test"
