@@ -1,16 +1,25 @@
 {
   "name": "notificare",
-  "description": "Notificare Live API client library",
+  "description": "Notificare Live API SDK for NodeJS",
   "version": "0.0.3",
-  "author": "Joris Verbogt",
+  "author": {
+    "name":"Notificare",
+    "email":"info@notifica.re",
+    "url":"http://notifica.re/"
+  },
+  "contributors": [
+    "Joris Verbogt <joris@notifica.re>",
+    "Joel Oliveira <joel@notifica.re>"
+  ],
   "dependencies": {},
   "homepage": "https://github.com/Notificare/notificare-live-api-node",
   "keywords": [
-    "notificare",
-    "api",
-    "server"
+    "notificare", "api", "live"
   ],
-  "license": "MIT",
+  "licenses": [{
+    "type": "Apache 2.0",
+    "url": "http://github.com/Notificare/notificare-live-api-node/raw/master/LICENSE.txt"
+  }],
   "main": "index",
   "repository": {
     "type": "git",
