@@ -1,7 +1,7 @@
 {
   "name": "notificare",
   "description": "Notificare Live API SDK for NodeJS",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": {
     "name": "Notificare",
     "email": "info@notifica.re",
@@ -28,7 +28,7 @@
     }
   ],
   "main": "index",
-  "scripts":{
+  "scripts": {
     "test": "mocha"
   },
   "repository": {
