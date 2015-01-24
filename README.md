@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/notificare.png)](https://nodei.co/npm/notificare/)
 
-[![npm version](https://badge.fury.io/js/notificare.svg)](http://badge.fury.io/js/notificare) [![Build Status](https://travis-ci.org/notificare/notificare-live-api-node.png?branch=master)](https://travis-ci.org/notificare/notificare-live-api-node)
+[![npm version](https://badge.fury.io/js/notificare.svg)](http://badge.fury.io/js/notificare) [![Build Status](https://travis-ci.org/Notificare/notificare-live-api-node.png?branch=master)](https://travis-ci.org/Notificare/notificare-live-api-node)
 
 ## Installing
 
