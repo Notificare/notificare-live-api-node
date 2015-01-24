@@ -12,7 +12,8 @@
     "Joel Oliveira <joel@notifica.re>"
   ],
   "devDependencies": {
-    "chai": "~1.0.10"
+    "chai": "~1.10.0",
+    "mocha": "~1.2.0"
   },
   "dependencies": {},
   "homepage": "https://github.com/Notificare/notificare-live-api-node",
