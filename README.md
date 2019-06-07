@@ -13,14 +13,14 @@ npm install notificare
 ## Usage
 
 ```javascript
-var Notificare = require('notificare');
+const Notificare = require('notificare');
 
-var privateKey = 'xxxxxx',
+const privateKey = 'xxxxxx',
     publicKey = 'yyyyyy';
 
-var liveApiClient = new Notificare.LiveApi(privateKey, publicKey);
+const liveApiClient = new Notificare.LiveApi(privateKey, publicKey);
 
-var verificationResponse = liveApiClient.httpGateway.verify(incomingPublicKey, challenge);
+const verificationResponse = liveApiClient.httpGateway.verify(incomingPublicKey, challenge);
 ```
 
 
