@@ -1,7 +1,7 @@
 {
   "name": "notificare",
   "description": "Notificare Live API SDK for NodeJS",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "author": {
     "name": "Notificare",
     "email": "info@notifica.re",
@@ -12,8 +12,8 @@
     "Joel Oliveira <joel@notifica.re>"
   ],
   "devDependencies": {
-    "chai": "~1.10.0",
-    "mocha": "~1.2.0"
+    "chai": "~4.2.0",
+    "mocha": "~2.5.3"
   },
   "dependencies": {},
   "homepage": "https://github.com/Notificare/notificare-live-api-node",
